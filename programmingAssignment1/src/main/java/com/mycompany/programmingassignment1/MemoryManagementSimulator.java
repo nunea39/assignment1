@@ -1,5 +1,6 @@
 package com.mycompany.programmingassignment1;
-
+/*Andry Nunez*/
+/*CSC343 Programming Assignment 1*/
 import java.util.ArrayList;
 import java.util.Random;
 
